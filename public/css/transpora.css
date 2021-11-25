@@ -1,0 +1,60 @@
+.btn-transporayellow
+{
+  background-color: #fde428;
+  color:#2f4050;
+  border-color: #fde428;
+}
+
+/* Eigenes Cookie Popup Design */
+.cookieconsent,
+.cookie-consent-banner
+{
+  background-color: #fff;
+  position:absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+
+
+
+/* EU POPUP STYLE */
+.eu-popup{
+  /*display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 20px;
+  flex-wrap: wrap;
+  background-color: white;
+  margin: 0px;
+  bottom:0;*/
+  position: fixed;
+		  bottom: 0;
+		  left: 0;
+		  z-index: 2147483645;
+		  box-sizing: border-box;
+		  width: 100%;
+      background-color: #FFF;;
+      padding: 20px;;
+}
+.eu-popup-button {
+  background-color: white;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px lightgray solid;
+  float: right;
+  margin-left: 4px;;
+}
+
+.eu-popup-button:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.transporayellow{
+  background-color: #fde428;
+}
