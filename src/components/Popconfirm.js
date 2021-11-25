@@ -6,7 +6,7 @@ function Popconfirm(props) {
     return (
         <div>
             <Modal isOpen={props.basicModal} toggle={() => props.handelClick()} className='  modal-dialog-centered'>
-                <h4>fsfsfsf</h4>
+                <h4>fsfsfsfffsfsfsf</h4>
             </Modal>
         </div>
     )
